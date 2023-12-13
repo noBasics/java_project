@@ -94,7 +94,7 @@ public class MainMenu {
             case 3:
                 System.out.println("You chose: Reports");
                 // Implement the logic for generating reports
-                Reports.generateSummaryReport();
+                // Reports.generateSummaryReport();
                 break;
             default:
                 System.out.println("Invalid choice. Please choose a number between 1 and 3.");
